@@ -1,0 +1,1 @@
+Backend configuration for AI Workout Generator
